@@ -1,0 +1,6 @@
+*.raw
+*.pgm
+*.png
+*.pcap
+*.pcapng
+/private/
