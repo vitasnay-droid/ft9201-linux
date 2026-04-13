@@ -62,3 +62,7 @@ Output files:
 
 ## Goal
 Turn the PoC into something useful for upstream libfprint support.
+
+## Project tracking
+- [TODO](TODO.md)
+- [Contributing](CONTRIBUTING.md)
